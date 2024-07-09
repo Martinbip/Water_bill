@@ -1,0 +1,21 @@
+#navbar{
+    background-color: #2285e0;
+}
+.dropdown-menu[data-bs-popper]{
+    left:-150px;
+}
+.avatar{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+.avatar[src="{vamp}"]{
+width: 60px;
+height: 60px;
+
+}
+
+hr{
+    opacity: 0.5;
+}
